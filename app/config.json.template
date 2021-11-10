@@ -1,0 +1,8 @@
+{
+    "urls": [
+        "http://example.com"
+    ],
+    "token": "",
+    "channel_id": 0,
+    "sleep": 60
+}
